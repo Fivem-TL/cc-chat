@@ -59,7 +59,7 @@ Official guide to installing **CC Chat**.
 ### 🙋 Support - CC Discord
 - [Discord](https://discord.conceptcollective.net)
 
-### Leaked By 
+### Leaked By  FiveM - TL
 
 - [Discord] https://discord.gg/JqaBj5GmFM
 
